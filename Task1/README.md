@@ -5,4 +5,4 @@
   <i><b>Create a ToDo List</b></i><br><br>
 <b>Tech Stack:<b> HTML, CSS and Javascript.<br><br>
 <b>Code Editor:<b> Visual Studio Code<br><br><br>
-  <img src ="https://github.com/ayodhyasathe16/LGMVIP-Web/blob/main/Task1/SS.png" alt ="todolist">
+  <img src ="https://github.com/DanishRampure/LGMVIP-Web/blob/main/Task1/SS.jpg" alt ="todolist">
